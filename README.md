@@ -10,7 +10,7 @@ This portfolio piece was developed to showcase the importance of geospatial tech
 *   **Identified Health Facilities in Flooded Zones:** 22
 *   **Total Flooded Area:** 
 
-_  **Interactive Web Map:** An interactive version of the map can be viewed by downloading `Nigeria_Flood_Analysis_Final.html` and opening it in a browser.
+ **Interactive Web Map:** An interactive version of the map can be viewed by downloading `Nigeria_Flood_Analysis_Final.html` and opening it in a browser.
 
 ## Technical Workflow & Technologies Used
 
