@@ -1,6 +1,3 @@
-# Humanitarian-Flood-Analysis-Nigeria
-A geospatial analysis of the 2022 Nigerian floods using Google Earth Engine, Python, and PostGIS to identify affected populations and infrastructure.
-
 # Geospatial Analysis of the 2022 Flood Event in Kogi State, Nigeria
 
 This project is a humanitarian-focused case study demonstrating a complete geospatial workflow to assess the impact of the severe 2022 floods in Kogi State, Nigeria. The analysis identifies the flood extent, estimates the affected population, and locates impacted health facilities to support humanitarian decision-making.
